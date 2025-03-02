@@ -54,4 +54,4 @@ Pressure: 1010 hPa
 Weather Description: light rain
 ```
 
-#OUTPUT: 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/3d6fc4a6-1850-4c8f-8390-34bdd78708d3)
